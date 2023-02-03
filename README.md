@@ -3,7 +3,7 @@
 
   
   <div> 
-  <div>Atualmente trabalho como Analista de Business Intelligence, estudando e adquirindo conhecimentos para atuar com Data Science.</div>
+  <div>Atualmente trabalho como Analista de Business Intelligence, estudando e adquirindo conhecimentos para atuar com Analytics Engineear.</div>
   
 
   <a href="https://www.linkedin.com/in/joao-vilar-braga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
