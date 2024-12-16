@@ -2,7 +2,7 @@
 ## My names Joao Vilar. Welcome!
 
 
-<h3 align="center">Business Intelligence & Data Architect</h3>
+<h3 align="center">Data Engineering & Data Architect</h3>
 
 - 🔭 I’m currently working on **Stefanini Group**
 
